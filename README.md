@@ -52,9 +52,9 @@ Notify
 
 If you run into a case in which the library does not provide the requisite builder functions you can get the `NotificationCompat.Builder` object and continue to use it as you would normally by calling `NotifyCreator#asBuilder()`.
 
-> **Tip:** You can view other notification styles on the [Notification Types](./docs/types.md) docs page.
+> **Tip:** You can view other notification styles on the [Notification Types](/docs/types.md) docs page.
 
-> **Tip:** Advanced usage topics are documented [here](./docs/advanced.md).
+> **Tip:** Advanced usage topics are documented [here](/docs/advanced.md).
 
 
 #### CONTRIBUTING
